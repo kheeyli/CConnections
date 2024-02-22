@@ -58,7 +58,9 @@ export const styles = StyleSheet.create({
 
   // DataSaved
   savedDataContainer: {
-    marginTop: 20,
+    margin: 10,
+    padding:10,
+    color: 'gray',
   },
 
   savedData: {
